@@ -20,6 +20,20 @@
                ReferencedContainer = "container:MrJenkins.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "NO"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "7C4E551C1DBB43B20085609E"
+               BuildableName = "MrJenkinsTests.xctest"
+               BlueprintName = "MrJenkinsTests"
+               ReferencedContainer = "container:MrJenkins.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
    <TestAction
